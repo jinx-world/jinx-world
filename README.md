@@ -1,10 +1,12 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 
-I'm zaki, 
-- currently working on kwai.
-- with Javascript, Typescript, Vue3, etc.
-- Learning someting new .
+I'm **Zaki**, focused on **FE**, a person who wants to improve a little bit every day.
+
+#### Now
+- 🔭currently working on kwai.
+- 💻with Javascript, Typescript, Vue3, etc.
+- 🤔Learning someting new .
 
 
 <!--
