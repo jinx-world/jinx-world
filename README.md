@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 
-I'm **Zaki**, focused on **FE**, a person who wants to improve a little bit every day.
+I'm **Zaki**, focused on **FE**, a cool guy who wants to improve a little bit every day.
 
 #### Now
 - 🔭currently working on kwai.
