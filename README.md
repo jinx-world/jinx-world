@@ -4,7 +4,7 @@
 I'm **Zaki**, focused on **FE**, a cool guy who wants to improve a little bit every day.
 
 #### Now
-- 🔭currently working on kwai.
+- 🔭currently working in kwai.
 - 💻with Javascript, Typescript, Vue3, etc.
 - 🤔Learning someting new .
 
