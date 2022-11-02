@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 
-I'm **Zaki**, focused on **FE**, a cool guy who wants to improve a little bit every day.
+I'm **Jinx**, focused on **FE**, a cool guy who wants to improve a little bit every day.
 
 #### Now
 - 🔭currently working in kwai.
@@ -10,7 +10,7 @@ I'm **Zaki**, focused on **FE**, a cool guy who wants to improve a little bit ev
 
 
 <!--
-**Zakisee/Zakisee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jinx/Jinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
