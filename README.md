@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakisee&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinx-world&show_icons=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakisee&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinx-world&layout=compact" />
 </details>
 
 
