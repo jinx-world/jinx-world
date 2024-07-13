@@ -1,8 +1,7 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 
-I'm **Jinx**, focused on **FE**, a cool guy who wants to improve a little bit every day.
-
+I'm **Jinx**
 #### Now
 - 🔭currently working in kwai.
 - 💻with Javascript, Typescript, Vue3, etc.
